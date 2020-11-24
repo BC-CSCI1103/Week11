@@ -14,7 +14,8 @@ Robert Muller - Boston College
 
 1. Backtrack Search in 8-Queens
 2. Zooming Bitmaps 
-3. Array & Block Allocation, Dictionaries
+3. Array & Block Allocation
+4. Dictionaries
 
 ---
 
@@ -28,6 +29,11 @@ See the code in `src/queens`.
 
 See the code in `src/zoom`.
 
-## 3. Array & Block Allocation, Dictionaries
+## 3. Array & Block Allocation
+
+See the slides in `slides/` and see the code in `src/storage/`.
+
+## 4. Dictionaries
 
 See the slides in `slides/` and see the code in `src/dictionaries/`.
+
